@@ -1,6 +1,6 @@
-Website Hosted Link:https://ashutosh-chavan.github.io/1st-Bootstrap-Project/
-
 # 1st-Bootstrap-Project
+
+Website Hosted Link:https://ashutosh-chavan.github.io/1st-Bootstrap-Project/
 
 As I am learing Full Stack Web Development I have made a responsive bootsrap project for pricing of a commodity.
 
